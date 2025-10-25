@@ -106,7 +106,7 @@ Node-RED (dashboard):
 
 Instale node-red-dashboard.
 
-Importe o flow JSON (em config/node-red/flow.json).
+Importe o flow JSON (em src/flow.json).
 
 Abra o nó MQTT IN e configure o broker TLS (8883) com suas credenciais.
 
