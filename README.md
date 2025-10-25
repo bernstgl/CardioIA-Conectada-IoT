@@ -133,7 +133,7 @@ BPM parado em 0: verifique o pino do botão (GPIO 5) e os cliques dentro da jane
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 23/10/2025
+* 1.0.0 - 23/10/2025
 
 ## 📋 Licença
 
