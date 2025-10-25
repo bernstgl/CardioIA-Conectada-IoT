@@ -70,11 +70,11 @@ Node-RED (≥ 3.x) com node-red-dashboard instalado.
 
 (Opcional) InfluxDB e Grafana Cloud.
 
-PARTE 1 – Edge (ESP32 no Wokwi)
+PARTE 1 – Edge (ESP32 no Wokwi - https://wokwi.com/projects/445740340158254081)
 
 Crie um projeto ESP32 no Wokwi e adicione o DHT22 e o MPU6050 ou pushbutton.
 
-Cole o código da Parte 1 em src/parte1/main.ino (ou direto no Wokwi sketch.ino).
+Cole o código da Parte 1 (https://wokwi.com/projects/445740340158254081) direto no Wokwi sketch.ino.
 
 Adicione as libs indicadas acima.
 
@@ -82,7 +82,7 @@ Rode a simulação: com “Wi-Fi OFF”, as leituras são armazenadas (resiliên
 
 Nota: no Wokwi o SPIFFS é volátil – em hardware real, os arquivos persistem.
 
-PARTE 2 – MQTT + Dashboard (ESP32 + HiveMQ + Node-RED)
+PARTE 2 – MQTT + Dashboard (ESP32 + HiveMQ + Node-RED - https://wokwi.com/projects/445740340158254081)
 
 Broker MQTT (HiveMQ Cloud):
 
