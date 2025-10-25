@@ -52,6 +52,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>src</b>: Código fonte criado para o desenvolvimento do projeto.
 
+- <b>Relatórios</b>: Relatórios obrigatórios das Partes 1 e 2 desta atividade
+
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
